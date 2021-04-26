@@ -1,9 +1,9 @@
 # Site settings
-author: Sumer Gaiwkadd
+author: Sumer Gaiwkad
 title: SG-My-Soft-Dev-Journey
 header-img: img/home-bg.png
 email: sg.comparch@gmail.com
-copyright_name: Sumer Gaiwkadd
+copyright_name: Sumer Gaiwkad
 description: > # this means to ignore newlines until "baseurl:"
   My journey through software development
 baseurl: "" # the subpath of your site, e.g. /blog
